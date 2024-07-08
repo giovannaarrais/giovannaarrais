@@ -13,7 +13,7 @@
 
 
 ### 🔗 Links e Contato
-Para entrar em contato comigo, você pode enviar um e-mail para giovannaarrais14@gmail.com.
+Para entrar em contato comigo, você pode enviar um e-mail para giovannaarrais14@gmail.com
 
 Também estou no LinkedIn: 
 
