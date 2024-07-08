@@ -1,19 +1,19 @@
 
 ## Olá! Meu nome é Giovanna Arrais 👋.
 
-⚡ Seja bem-vindo(a) ao meu GitHub 
+⚡ Seja bem-vindo(a) ao meu GitHub.
 
-- 🔥 Atualmente estou focada no Desenvolvimento Front-End
+- 🔥 Atualmente estou focada no Desenvolvimento Front-End.
 
-- 🔭 Cursando Análise e Desenvolvimetno de Sistemas, estou no 2º semestre 
+- 🔭 Cursando Análise e Desenvolvimetno de Sistemas, estou no 2º semestre. 
 
-- 🧠 Possuo conhecimento em JavaScript, CSS, Python e HTML
+- 🧠 Possuo conhecimento em JavaScript, CSS, Python e HTML.
 
 
 
 
 ### 🔗 Links e Contato
-Para entrar em contato comigo, você pode enviar um e-mail para giovannaarrais14@gmail.com
+Para entrar em contato comigo, você pode enviar um e-mail para giovannaarrais14@gmail.com.
 
 Também estou no LinkedIn: 
 
