@@ -1,4 +1,3 @@
-
 ## Olá! Meu nome é Giovanna Arrais 👋.
 
 ⚡ Seja bem-vindo(a) ao meu GitHub.
@@ -11,7 +10,7 @@
 
 - ✨ No momento estou aprendendo JavaScript e Python.
 
-<div style="display: inline_block"><br>
+<div style="display: flex;">
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -21,7 +20,11 @@
 
 <br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=giovannaarrais&layout=compact&theme=dark)
+<div align="center" >
+  <a href="https://github.com/ubiratan-motta">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=giovannaarrais&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giovannaarrais&layout=compact&langs_count=7&theme=radical"/>
+</div>
 
 
 
