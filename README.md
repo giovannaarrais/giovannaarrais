@@ -9,7 +9,7 @@
 - 🧠 Possuo um bom conhecimento em CSS e HTML.
 
 - ✨ No momento estou aprendendo JavaScript e Joomla.
-
+  
 <div style="display: flex;">
   <img align="center" alt="HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -19,6 +19,7 @@
   <img align="center" alt="Joomla" height="40" width="50" src="https://github.com/user-attachments/assets/facfced0-b0c4-49f0-9698-a263f6b60d3d">
 </div>
 
+</br>
 
 <div align="center" >
   <a href="https://github.com/giovannaarrais">
