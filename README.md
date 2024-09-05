@@ -1,4 +1,4 @@
-## Olá! Meu nome é Giovanna Arrais 👋.
+## Olá! Meu nome é Giovanna Arrais 👋
 
 ⚡ Seja bem-vindo(a) ao meu GitHub.
 
