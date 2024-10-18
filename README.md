@@ -6,8 +6,6 @@
 
 - 🔭 Cursando Análise e Desenvolvimento de Sistemas, estou no 2º semestre. 
 
-- 🧠 Possuo bom conhecimento em CSS e HTML.
-
 - ✨ No momento estou aprendendo JavaScript, Joomla e PHP.
   
 <div style="display: flex;">
