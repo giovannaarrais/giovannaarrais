@@ -30,7 +30,7 @@ Para entrar em contato comigo, você pode enviar um e-mail para giovannaarrais.d
 
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://giovannaarrais.netlify.app/)
 
-Também estou no LinkedIn
+Também estou no LinkedIn.
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/giovannaarrais/)
 
