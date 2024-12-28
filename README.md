@@ -20,7 +20,7 @@
 </br>
 
 <div align="center">
-  <a href="https://github.com/giovannaarrais">
+  <a href="https://github.com/giovannaarrai">
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giovannaarrais&layout=compact&theme=radical">
 </div>
 
