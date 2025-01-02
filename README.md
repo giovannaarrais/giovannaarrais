@@ -4,7 +4,7 @@
 
 - 🔥 Atualmente estou focada em Desenvolvimento Front-End.
 
-- 🔭 Cursando Análise e Desenvolvimento de Sistemas, estou no 2º semestre. 
+- 🔭 Cursando Análise e Desenvolvimento de Sistemas, estou no 3º semestre. 
 
 - ✨ No momento estou aprendendo JavaScript, Joomla e PHP.
   
