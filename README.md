@@ -6,7 +6,7 @@
 
 - 🔭 Cursando Análise e Desenvolvimento de Sistemas, estou no 3º semestre. 
 
-- ✨ No momento estou aprendendo JavaScript, Joomla e PHP.
+- ✨ No momento estou aprendendo JavaScript, PHP e Joomla .
   
 <div style="display: flex;">
   <img align="center" alt="HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
