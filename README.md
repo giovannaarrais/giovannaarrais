@@ -32,7 +32,7 @@
 ### 🔗 Links e Contato
 Para entrar em contato comigo, você pode enviar um e-mail para giovannaarrais.dev@gmail.com
 
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://giovannaarrais.netlify.app/)
+Para conhecer um pouco das minhas habilidades na prática, conheça [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://giovannaarrais.netlify.app/)
 
 Também estou no LinkedIn.
 
