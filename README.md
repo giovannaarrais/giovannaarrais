@@ -29,7 +29,7 @@
 </div>
 
 
-### 🔗 Links e Contato
+## 🔗 Links e Contato
 Para entrar em contato comigo, você pode enviar um e-mail para giovannaarrais.dev@gmail.com
 
 Conheça um pouco das minhas habilidades, acesse meu portfólio.
