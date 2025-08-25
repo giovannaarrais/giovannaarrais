@@ -1,46 +1,49 @@
-## Olá! Meu nome é Giovanna Arrais 👋
+# 👩‍💻 Olá, eu sou a Giovanna Arrais!  
 
-⚡ Seja bem-vindo(a) ao meu GitHub.
+Seja muito bem-vindo(a) ao meu GitHub 🚀  
 
-- 🔥 Atualmente estou focada em Desenvolvimento Front-End.
-
-- 🔭 Cursando Análise e Desenvolvimento de Sistemas, estou no 3º semestre. 
-
-- ✨ No momento estou aprendendo JavaScript, PHP e CMS Joomla.
-
+- 🔥**Desenvolvedora Front-End**, que está expandindo seus conhecimentos para se tornar uma **Desenvolvedora Fullstack**.
   
-<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
-          
+- 📚 Sou estudante de **Análise e Desenvolvimento de Sistemas (4º semestre)**.
+  
+- 🎯 Busco sempre evoluir minhas habilidades em tecnologias modernas para criar soluções funcionais e criativas.  
+
+## 🚀 Tecnologias que possuo conhecimento
 <div style="display: flex;">
   <img align="center" alt="HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="SCSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
+  <img align="center" alt="Bootstrap" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
+  <img align="center" alt="JavaScript" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Git" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-  <img align="center" alt="Php" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
   <img align="center" alt="Joomla" height="40" width="50" src="https://github.com/user-attachments/assets/facfced0-b0c4-49f0-9698-a263f6b60d3d">
-</div>
+</div>  
+<br>
 
-</br>
+
+## 🌱 Em constante aprendizado  
+<div style="display: flex;">
+  <img align="center" alt="React" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Node.js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+  <img align="center" alt="TailwindCSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg">
+  <img align="center" alt="Next.js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
+  <img align="center" alt="PHP" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
+</div>  
+<br>
+
 
 <div align="center">
   <a href="https://github.com/giovannaarrais">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giovannaarrais&layout=compact&theme=radical">
-</div>
+    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giovannaarrais&layout=compact&theme=radical"/>
+</div>  
 
 
-## 🔗 Links e Contato
-Para entrar em contato comigo, você pode enviar um e-mail para giovannaarrais.dev@gmail.com
+## 🔗 Onde me encontrar  
+📧 E-mail: **giovannaarrais.dev@gmail.com**  
 
-Conheça um pouco das minhas habilidades, acesse meu portfólio.
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://giovannaarrais.netlify.app/)  
 
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://giovannaarrais.netlify.app/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/giovannaarrais/)  
 
-Também estou no LinkedIn.
-
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/giovannaarrais/)
-
-<!---
-giovannaarrais/giovannaarrais is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+✨ Obrigada por visitar meu perfil, sinta-se à vontade para explorar meus repositórios!
