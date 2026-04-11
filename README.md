@@ -32,7 +32,7 @@ Seja muito bem-vindo(a) ao meu GitHub 🚀
 <br>
 
 
-<div align="center">
+<div align="center" style='display: none;'>
   <a href="https://github.com/giovannaarrais">
     <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giovannaarrais&layout=compact&theme=radical"/>
 </div>  
