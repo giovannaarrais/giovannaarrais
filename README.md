@@ -9,7 +9,7 @@ Seja muito bem-vindo(a) ao meu GitHub 🚀
 - 🎯 Busco sempre evoluir minhas habilidades em tecnologias modernas para criar soluções funcionais e criativas.  
 
 ## 🚀 Tecnologias que possuo conhecimento
-<div style="display: flex;">
+<div style="display: flex; ">
   <img align="center" alt="HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="SCSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
